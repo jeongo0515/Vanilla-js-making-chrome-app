@@ -1,0 +1,5 @@
+[0123/153014.500:ERROR:settings.cc(325)] Settings version is not 1
+[0123/154014.521:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0123/183813.131:ERROR:settings.cc(325)] Settings version is not 1
+[0124/145749.287:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0124/172236.462:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
