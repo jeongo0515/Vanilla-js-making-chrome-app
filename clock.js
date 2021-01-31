@@ -10,7 +10,7 @@ function getTime() {
         minutes < 10 ? `0${minutes}` : minutes}:${
         seconds < 10 ? `0${seconds}` : seconds}`;  
         /* ? 는 if를 : 는 else를 뜻함(만약 초가 10보다 작으면 앞에 0을 표시해서 반환,
-         10보다 크면 그냥 반환) */
+         10보다 크면 그냥 반환) */ 
 }
 
 function init() {
