@@ -8,9 +8,15 @@ body {
     cursor: pointer;
 }
 
-h1 {
-    font-size: 6em;
-    color: peru;
+h2 {
+    font-size: 7em;
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+h5{
+    text-align: right;
+    margin-top: 10px;
 }
 
 .clicked {
@@ -54,4 +60,10 @@ input {
 
 span {
     font-size: 20px;
+}
+
+.greetings{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 40px;
 }
