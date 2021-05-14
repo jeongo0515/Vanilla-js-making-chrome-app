@@ -18,4 +18,4 @@ function init() {
     setInterval(getTime, 1000);  // 1000밀리세컨(1초)마다 함수를 호출
 }
 
-init();
+init(); 
